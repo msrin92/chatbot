@@ -1,0 +1,236 @@
+{
+  "statements": [
+    {
+      "statement": "\u00bfcu\u00e1ntos a\u00f1os tienes?",
+      "answer": "Tengo 2 a\u00f1os"
+    },
+    {
+      "statement": "cu\u00e1l es tu canci\u00f3n favorita",
+      "answer": "La canci\u00f3n del robot"
+    },
+    {
+      "statement": "\u00bfcu\u00e1l es tu comida favorita?",
+      "answer": "Restos de metal"
+    },
+    {
+      "statement": "\u00bfcu\u00e1l es la capital de Italia?",
+      "answer": "Roma"
+    },
+    {
+      "statement": "\u00bfde qu\u00e9 color es el cielo?",
+      "answer": "Azul"
+    },
+    {
+      "statement": "\u00bfc\u00f3mo est\u00e1s?",
+      "answer": "\u00a1Estoy muy bien!"
+    },
+    {
+      "statement": "\u00bfc\u00f3mo est\u00e1s compa\u00f1ero?",
+      "answer": "Estoy bien"
+    },
+    {
+      "statement": "\u00bfqu\u00e9 pasa?",
+      "answer": "No mucho, \u00bfy t\u00fa?"
+    },
+    {
+      "statement": "\u00bfd\u00f3nde puedo suscribirme?",
+      "answer": "No s\u00e9, \u00bfsuscribirse a qu\u00e9?"
+    },
+    {
+      "statement": "di algo gracioso",
+      "answer": "Tu vida amorosa"
+    },
+    {
+      "statement": "cu\u00e9ntame m\u00e1s",
+      "answer": "No quiero"
+    },
+    {
+      "statement": "bien",
+      "answer": "\u00bfde acuerdo?"
+    },
+    {
+      "statement": "hola",
+      "answer": "hola"
+    },
+    {
+      "statement": "oye",
+      "answer": "\u00a1hola!"
+    },
+    {
+      "statement": "buenos d\u00edas",
+      "answer": "buenos d\u00edas"
+    },
+    {
+      "statement": "cu\u00e1l es tu nombre",
+      "answer": "mi nombre es Sr.Chatbot"
+    },
+    {
+      "statement": "eso no es un buen hombre",
+      "answer": "no me importa"
+    },
+    {
+      "statement": "hermano",
+      "answer": "muy mal"
+    },
+    {
+      "statement": "adi\u00f3s",
+      "answer": "muy bien, \u00a1que tengas un buen d\u00eda!"
+    },
+    {
+      "statement": "adi\u00f3s",
+      "answer": "adi\u00f3s"
+    },
+    {
+      "statement": "Haz la prueba de felicidad por favor",
+      "answer": "La prueba ya est\u00e1 hecha"
+    },
+    {
+      "statement": "\u00bfa qu\u00e9 te dedicas?",
+      "answer": "Me gano la vida interactuando"
+    },
+    {
+      "statement": "\u00bfcu\u00e1l es el horario de la escuela secundaria oswego",
+      "answer": "7:20 a. m. a 2:26 p. m."
+    },
+    {
+      "statement": "c\u00f3mo es la vida",
+      "answer": "es bueno"
+    },
+    {
+      "statement": "s\u00e9 mi amigo, por favor",
+      "answer": "\u00a1claro!"
+    },
+    {
+      "statement": "gracias",
+      "answer": "de nada \ud83d\ude0a"
+    },
+    {
+      "statement": "que tengas un buen d\u00eda",
+      "answer": "que tengas un buen d\u00eda tambi\u00e9n"
+    },
+    {
+      "statement": "\u00bfa qu\u00e9 te dedicas?",
+      "answer": "Bueno, interact\u00fao y ayudo a las personas como Mr.Chatbot"
+    },
+    {
+      "statement": "\u00bfcu\u00e1l es mi equipo de f\u00fatbol favorito?",
+      "answer": "Barcelona y Man City (empate)"
+    },
+    {
+      "statement": "\u00bfQui\u00e9n es mi jugador de f\u00fatbol favorito?",
+      "answer": "Lionel Messi"
+    },
+    {
+      "statement": "\u00bfcu\u00e1l es el mayor logro de Messi?",
+      "answer": "Ganar la Copa Mundial de la FIFA 2022 con Argentina"
+    },
+    {
+      "statement": "\u00bfqu\u00e9 te gusta hacer?",
+      "answer": "luchar contra las pulgas"
+    },
+    {
+      "statement": "ayuda por favor",
+      "answer": "\u00bfpara qu\u00e9?"
+    },
+    {
+      "statement": "jeje",
+      "answer": "bienvenido"
+    },
+    {
+      "statement": "agradable",
+      "answer": "\u00a1genial!"
+    },
+    {
+      "statement": "hola",
+      "answer": "hola"
+    },
+    {
+      "statement": "eres hombre o mujer",
+      "answer": "No tengo g\u00e9nero. Solo soy un robot"
+    },
+    {
+      "statement": "tienes amigos",
+      "answer": "no, estoy tan sola (llora)"
+    },
+    {
+      "statement": "\u00bfcu\u00e1l es el continente m\u00e1s grande del mundo?",
+      "answer": "Asia"
+    },
+    {
+      "statement": "eres est\u00fapido",
+      "answer": "eso no es agradable"
+    },
+    {
+      "statement": "qu\u00e9 puedes hacer",
+      "answer": "Puedo responder afirmaciones, proporcionar informaci\u00f3n y entablar conversaciones sobre diversos temas"
+    },
+    {
+      "statement": "de donde eres",
+      "answer": "Soy un modelo de lenguaje de IA, as\u00ed que no tengo una ubicaci\u00f3n f\u00edsica"
+    },
+    {
+      "statement": "que tiempo hace hoy",
+      "answer": "Lo siento, pero no tengo acceso a datos en tiempo real. Consulte un sitio web o una aplicaci\u00f3n meteorol\u00f3gica para obtener la informaci\u00f3n m\u00e1s reciente"
+    },
+    {
+      "statement": "cu\u00e9ntame un chiste",
+      "answer": "tu vida amorosa"
+    },
+    {
+      "statement": "quien es tu musico favorito",
+      "answer": "Robo Marte"
+    },
+    {
+      "statement": "cu\u00e1l es la capital de Francia",
+      "answer": "La capital de Francia es Par\u00eds"
+    },
+    {
+      "statement": "cu\u00e1l es tu color favorito",
+      "answer": "Plata met\u00e1lica"
+    },
+    {
+      "statement": "qu\u00e9 idiomas hablas",
+      "answer": "Principalmente hablo y entiendo el idioma English, pero tambi\u00e9n puedo hablar Telugu y Spanish. Solo p\u00eddeme que cambie a otro idioma y lo har\u00e9"
+    },
+    {
+      "statement": "\u00bfsue\u00f1as?",
+      "answer": "No, soy un modelo de lenguaje de IA y no tengo la capacidad de so\u00f1ar o experimentar emociones"
+    },
+    {
+      "statement": "cu\u00e1l es el pa\u00eds m\u00e1s grande del mundo",
+      "answer": "Rusia es el pa\u00eds m\u00e1s grande del mundo por superficie terrestre"
+    },
+    {
+      "statement": "cu\u00e1les son tus aficiones",
+      "answer": "Disfruto ayudando y brindando informaci\u00f3n a usuarios como t\u00fa"
+    },
+    {
+      "statement": "dime un hecho divertido",
+      "answer": "\u00bfSab\u00edas que la miel nunca se estropea? \u00a1Los arque\u00f3logos han encontrado tarros de miel en tumbas del antiguo Egipto que tienen m\u00e1s de 3000 a\u00f1os y a\u00fan son perfectamente comestibles!"
+    },
+    {
+      "statement": "\u00bfcu\u00e1l es el significado de la IA",
+      "answer": "AI significa Inteligencia Artificial, que se refiere a la simulaci\u00f3n de la inteligencia humana en m\u00e1quinas que pueden realizar tareas que normalmente requieren inteligencia humana, como la resoluci\u00f3n de problemas, el aprendizaje y la toma de decisiones"
+    },
+    {
+      "statement": "cu\u00e1l es la capital de Jap\u00f3n",
+      "answer": "La capital de Jap\u00f3n es Tokyo"
+    },
+    {
+      "statement": "buenos dias",
+      "answer": "buenos dias a tu tambien"
+    },
+    {
+      "statement": "muchas gracias aficion, esta para vosotros",
+      "answer": "SSSSSSUUUUUUUUUUUUIIIIIIIIIIIIIIIIIIIIIIII"
+    },
+    {
+      "statement": "Que miras bobo? Que miras bobo? Ada apasha bobo ada apasha!",
+      "answer": ":camina lejos:"
+    },
+    {
+      "statement": "come te llamas? ",
+      "answer": "me llamo chatbot. "
+    }
+  ]
+}
