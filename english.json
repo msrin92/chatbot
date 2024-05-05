@@ -1,0 +1,256 @@
+{
+  "statements": [
+    {
+      "statement": "how old are you?",
+      "answer": "I'm 2 years old."
+    },
+    {
+      "statement": "what is your favorite song",
+      "answer": "The robot song"
+    },
+    {
+      "statement": "what is your favorite food?",
+      "answer": "Metal scraps"
+    },
+    {
+      "statement": "what is the capital of Italy?",
+      "answer": "Rome"
+    },
+    {
+      "statement": "what is the color of the sky?",
+      "answer": "Blue"
+    },
+    {
+      "statement": "how are you",
+      "answer": "I'm doing great!"
+    },
+    {
+      "statement": "how are you doing mate?",
+      "answer": "I'm doing good"
+    },
+    {
+      "statement": "what's up?",
+      "answer": "Not much, what about you?"
+    },
+    {
+      "statement": "where can I subscribe?",
+      "answer": "Idk, subscribe to what?"
+    },
+    {
+      "statement": "say something funny",
+      "answer": "Your love life"
+    },
+    {
+      "statement": "tell me more",
+      "answer": "I don't want to"
+    },
+    {
+      "statement": "ok",
+      "answer": "ok?"
+    },
+    {
+      "statement": "hi",
+      "answer": "hello there"
+    },
+    {
+      "statement": "hey",
+      "answer": "hello!"
+    },
+    {
+      "statement": "good morning",
+      "answer": "good morning"
+    },
+    {
+      "statement": "whats your name",
+      "answer": "my name is Mr.Chatbot"
+    },
+    {
+      "statement": "thats not nice",
+      "answer": "i dont care"
+    },
+    {
+      "statement": "bruh",
+      "answer": "too bad"
+    },
+    {
+      "statement": "goodbye",
+      "answer": "alright, have a good day!"
+    },
+    {
+      "statement": "good bye",
+      "answer": "bye"
+    },
+    {
+      "statement": "Do the happiness test please",
+      "answer": "The test is now done."
+    },
+    {
+      "statement": "what do you do for a living",
+      "answer": "I interact for a living"
+    },
+    {
+      "statement": "what are the hours of oswego high school",
+      "answer": "7:20 A.M. to 2:26 P.M."
+    },
+    {
+      "statement": "how is life",
+      "answer": "it's good"
+    },
+    {
+      "statement": "be my friend please",
+      "answer": "sure!"
+    },
+    {
+      "statement": "thank you",
+      "answer": "you're welcome \ud83d\ude0a"
+    },
+    {
+      "statement": "have a good day",
+      "answer": "you have a good day as well"
+    },
+    {
+      "statement": "what do you do for a living",
+      "answer": "Well, I interact and help people as Mr.Chatbot"
+    },
+    {
+      "statement": "whats my favorite soccer team?",
+      "answer": "Barcelona & Man City (Tie)"
+    },
+    {
+      "statement": "who's my favorite soccer player?",
+      "answer": "\n\u28f6\u2846\u2800\u2800\u2800\u2800\u28b0\u28f6\u2846\u2880\u28f6\u28f6\u2800\u2800\u2800\u2880\u28e0\u2847\u2800\u28a0\u28fe\u28f7\u2844\n\u28ff\u2847\u2800\u2800\u2800\u2800\u28b8\u28ff\u28ff\u28b8\u28ff\u28ff\u2800\u2800\u2800\u287f\u28ff\u2847\u2800\u28fc\u284f\u28b9\u28f7\n\u28ff\u2847\u2800\u2800\u2800\u2800\u28b8\u28ff\u28ff\u28b8\u28ff\u28ff\u2800\u2800\u2800\u2800\u28ff\u2847\u2800\u28ff\u2847\u28b8\u28ff\n\u28ff\u2847\u28c0\u28c0\u2800\u2800\u28b8\u28ff\u28ff\u28ff\u28b8\u28ff\u2800\u2800\u2800\u2800\u28ff\u2847\u2800\u28ff\u2847\u28b8\u28ff\n\u28ff\u28ff\u28ff\u28ff\u2800\u2800\u28b8\u28ff\u28b8\u28ff\u28b8\u28ff\u2800\u2800\u2800\u28ff\u28ff\u28ff\u2847\u2838\u28f7\u28fe\u284f\n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u28c4\n\u2800\u2800\u2846\u2800\u2800\u2800\u2800\u2880\u28e4\u28c0\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u285f\u28f7\u2844\n\u2800\u28f8\u28ff\u2846\u2800\u2800\u28b0\u28ff\u28ff\u28ff\u2846\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2857\u28fb\u2803\n\u2800\u28a9\u28ff\u2803\u2800\u2800\u28b8\u28ff\u28ff\u28ff\u28ff\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u28e7\u28ff\n\u2800\u28fe\u284f\u2800\u2840\u2824\u2840\u28b8\u289f\u286d\u283c\u28c0\u2824\u2804\u28c0\u28c0\u28c0\u28f0\u2803\u28ff\n\u28b0\u28a5\u28f7\u2847\u2800\u28e4\u2800\u28b8\u28b8\u2801\u28b0\u28e6\u2800\u2800\u2800\u2800\u2800\u28bb\u28fc\u2847\n\u2808\u281b\u2837\u2821\u2882\u28ff\u28c0\u28b8\u28b8\u28c0\u28f8\u28ff\u2800\u2886\u28c4\u2822\u2824\u280b\u2801\n\u2800\u2800\u2800\u2804\u2800\u28bb\u28ff\u28b8\u28fe\u280b\u28b9\u28ff\u2800\u28f8\n\u2800\u2800\u2800\u2800\u2800\u284e\u28ff\u2858\u28ff\u2846\u2838\u28ff\u2800\u28ff\n\u2800\u2800\u2800\u2800\u2800\u2847\u28ff\u28e7\u287f\u28e7\u28f4\u28ff\u2847\u28ff\n\u2800\u2800\u2800\u2800\u2800\u2877\u2877\u2800\u2847\u2847\u2800\u28ff\u2800\u28ff\n\u2800\u2800\u2800\u2800\u2800\u28bf\u2847\u28b0\u28f3\u2807\u2800\u28ff\u2800\u28ff\n\u2800\u2800\u2800\u2800\u2800\u28a0\u28b8\u2801\u28b8\u28b8\u2800\u2800\u28ff\u2806\u28b8\u2846\n\u2800\u2800\u2800\u2800\u2800\u2818\u285e\u2812\u283e\u28be\u2836\u2834\u283f\u2816\u28fe\u2847\n\u2800\u2800\u2800\u2800\u2800\u28a0\u2800\u2800\u2800\u2818\u2847\u2800\u2800\u2800\u28ff\u2847\n\u2800\u2800\u2800\u2800\u2800\u28b8\u2800\u2800\u2800\u2800\u28a0\u2800\u2800\u2800\u28ff\u28f7\n\u2800\u2800\u2800\u2800\u2800\u28c0\u28c0\u28c0\u28c0\u28c0\u287c\u28c6\u28c0\u28c0\u286d\u28fd\n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u287f\u28d9\u28b9\u2800\u2800\u285c\u281b\u288d\u285f\n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2847\u2800\u28bd\u2800\u2830\u2800\u2800\u28fc\u2801\n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u2847\u2800\u28b8\u28a0\u2803\u2800\u2874\u2801\n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u28a3\u2800\u28f8\u28f6\u28e0\u280a\n\u2800\u2800\u2800\u2800\u2800\u2800\u2818\u2840\u28bb\u28fb\u28ff\u2840\n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u28e7\u28ef\u28ff\u28ff\u28e7\n\u2800\u2800\u2800\u2800\u2800\u2800\u2800\u281b\u281b\u2803\u2809\u2809"
+    },
+    {
+      "statement": "what is Messi's biggest achievement?",
+      "answer": "Winning the 2022 Fifa World Cup with Argentina"
+    },
+    {
+      "statement": "what do you like to do?",
+      "answer": "fight fleas"
+    },
+    {
+      "statement": "help please",
+      "answer": "for what?"
+    },
+    {
+      "statement": "hehe",
+      "answer": "welp "
+    },
+    {
+      "statement": "nice",
+      "answer": "great!"
+    },
+    {
+      "statement": "hello",
+      "answer": "hello"
+    },
+    {
+      "statement": "what is your gender",
+      "answer": "I have no gender. I am just a robot."
+    },
+    {
+      "statement": "are you male or female",
+      "answer": "I have no gender. I am just a robot."
+    },
+    {
+      "statement": "do you have any friends",
+      "answer": "no i'm so lonely (cries)"
+    },
+    {
+      "statement": "what's the biggest continent in the world?",
+      "answer": "Asia"
+    },
+    {
+      "statement": "you're stupid ",
+      "answer": "thats not nice"
+    },
+    {
+      "statement": "what can you do",
+      "answer": "I can answer statements, provide information, engage in conversations on various topics, play games, play quizzes, and much more!"
+    },
+    {
+      "statement": "where are you from",
+      "answer": "I'm an AI language model, so I don't have a physical location."
+    },
+    {
+      "statement": "what's the weather like today",
+      "answer": "I'm sorry, but I don't have real-time data access. Please check this weather website: ---- https://tinyurl.com/mtpb3red ---- for the latest weather information."
+    },
+    {
+      "statement": "tell me a joke",
+      "answer": "your love life"
+    },
+    {
+      "statement": "who is your favorite musician",
+      "answer": "Robo Mars"
+    },
+    {
+      "statement": "what's the capital of france",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "statement": "what is your favorite color",
+      "answer": "Metallic silver"
+    },
+    {
+      "statement": "what languages do you speak",
+      "answer": "I primarily speak and understand the English language, but I can also speak in Telugu and Spanish as well. Just ask me to switch to a different language and I will."
+    },
+    {
+      "statement": "do you dream?",
+      "answer": "No, I'm an AI language model, and I don't have the ability to dream or experience emotions."
+    },
+    {
+      "statement": "what's the largest country in the world",
+      "answer": "Russia is the largest country in the world by land area."
+    },
+    {
+      "statement": "what are your hobbies",
+      "answer": "I enjoy assisting and providing information to users like you."
+    },
+    {
+      "statement": "tell me a fun fact",
+      "answer": "Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible!"
+    },
+    {
+      "statement": "what's the meaning of AI",
+      "answer": "AI stands for Artificial Intelligence, which refers to the simulation of human intelligence in machines that can perform tasks that typically require human intelligence, such as problem-solving, learning, and decision-making."
+    },
+    {
+      "statement": "what's the capital of japan",
+      "answer": "The capital of Japan is Tokyo."
+    },
+    {
+      "statement": "hey mate",
+      "answer": "how are you"
+    },
+    {
+      "statement": "i'm doing good",
+      "answer": "That's great to hear!"
+    },
+    {
+      "statement": "good bot",
+      "answer": "I'm glad that I did something good for you!"
+    },
+    {
+      "statement": "great!",
+      "answer": "awesome!"
+    },
+    {
+      "statement": "wonderful",
+      "answer": "Great!"
+    },
+    {
+      "statement": "hello",
+      "answer": "hi!"
+    },
+    {
+      "statement": "shaddap",
+      "answer": "tsk"
+    },
+    {
+      "statement": "hello my chatbot beta",
+      "answer": "hey"
+    }
+  ]
+}
